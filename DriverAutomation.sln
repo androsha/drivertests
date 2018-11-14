@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{811D04AD-1506-4313-ADEE-446AE274EEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverAutomation", "DriverAutomation\DriverAutomation.csproj", "{50F4520D-C95D-47C7-AD2B-013895960F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811D04AD-1506-4313-ADEE-446AE274EEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811D04AD-1506-4313-ADEE-446AE274EEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811D04AD-1506-4313-ADEE-446AE274EEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811D04AD-1506-4313-ADEE-446AE274EEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F4520D-C95D-47C7-AD2B-013895960F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F4520D-C95D-47C7-AD2B-013895960F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F4520D-C95D-47C7-AD2B-013895960F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F4520D-C95D-47C7-AD2B-013895960F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3265A72E-79AD-402B-8DF0-7B80BF43778C}
+	EndGlobalSection
+EndGlobal

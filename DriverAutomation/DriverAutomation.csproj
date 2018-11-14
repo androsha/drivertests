@@ -46,7 +46,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Driver.cs" />
-    <Compile Include="LoginPage.cs" />
+    <Compile Include="Pages\LoginPage.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="Pages\NewCustomerPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
